@@ -14,46 +14,38 @@ AEP Technical Award — Second Place Overall
 Our team received the AEP Technical Award and finished second overall in the competition.
 
 
+🛠️ Tools & Methodologies
+
+1. Blade Design 
+
+We used winglet design for this year's project. The use of winglets offers a way to increase the power coefficient of a horizontal axis wind turbine that we assumed would be better for generating more power for a relatively small turbine.
 
 
-My Contributions
-
-My role involved contributing to the practical and experimental aspects of the project, connecting hands-on engineering work with performance evaluation.
-
-1. Blade Manufacturing
-
-I participated in manufacturing small-scale wind turbine blades, gaining practical exposure to the processes involved in blade construction and composite material handling.
-
-This work helped me understand the importance of manufacturing quality, material preparation, and consistency when producing aerodynamic components.
 
 ![Members](Infusion)
 
-2. Sustainable Composite Material Selection
+2. Sustainable Composite Material Selection & Manufacturing
 
-I worked with flax-fibre composite materials and bioresin as part of the team's investigation into alternative materials for wind turbine blades.
+I was responsible for choosing the main composite material and manufacturing the blade and we chose flax-fibre composite materials and bioresin as alternative materials for wind turbine blades.
 
-The project provided practical insight into the relationship between material properties, blade construction, structural requirements, and sustainability considerations.
 
 ![Members](Blade)
 
+Flax fiber has been selected as the reinforcement material for the turbine blade due to its favorable mechanical properties and reduced environmental impact. Studies on unidirectional flax yarns report effective stiffness values approaching 90 GPa and tensile strength ranging from 500 to 900 MPa, depending on fiber quality. While these values remain lower than those of carbon fiber, flax outperforms many other natural and synthetic alternatives in terms of sustainability and structural viability. 
+
+![Members](Flax)
+
 3. Wind-Tunnel Testing
 
-I contributed to experimental testing to evaluate the turbine's behaviour under controlled wind conditions.
-
-The testing process provided experience in observing turbine operation, working with an experimental setup, and connecting measured performance with the team's design decisions.
+The testing process provided experience in observing turbine operation, working with an experimental setup, and connecting measured performance.
 
 ![Members](Tunnel)
 
-4. Power-Performance Analysis
+4. Annual Energy Production (AEP) Assessment
 
-I worked with power-performance data to help evaluate the turbine's experimental performance.
+AEP provides an important link between turbine performance and practical energy production and is the main output to measure in this competition. hese are found using a Weibull distribution, with parameters A = 6.4 and k = 2.4 . The power curve for the DTU Small Wind Turbine and the Weibull distribution for this site are given in Figure below.
 
-The analysis connected the wind-tunnel testing campaign with the team's assessment of aerodynamic performance and energy production. It also demonstrated the importance of interpreting experimental results when comparing design alternatives.
+![Members](AEP)
 
-
-
-5. Annual Energy Production (AEP) Assessment
-
-I contributed to the team's Annual Energy Production (AEP) assessment, which was used to evaluate the turbine's potential energy yield.
-
-AEP provides an important link between turbine performance and practical energy production. The project reinforced the importance of considering the operating wind-speed distribution alongside the turbine's power-performance characteristics when assessing energy yield.
+💡Key Learnings & Takeaways
+A winglet blade design was chosen for improved efficiency.The blades are constructed using a sustainable biocomposite made from flax-based fabric and a bio-resin matrix, providing a balance between structural performance and environmental responsibility. This improvement is contribute to breaking the CP and Annual Energy Production (AEP) records in the 2025 edition of the International Small Wind Turbine Contest (ISWTC).
