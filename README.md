@@ -6,7 +6,7 @@ Project Overview
 
 The Bio-balde or Vegan Turbine project was an intensive student engineering competition centered on the end-to-end design, manufacturing, and performance optimization of a small-scale wind turbine. Our core mission was to investigate sustainable alternatives to traditional synthetic composites by utilizing natural-fibre composite materials for turbine blades, and subsequently validating their structural and aerodynamic viability through rigorous wind-tunnel testing.
 
-![Members](Team)
+![Members](Team2)
 
 Project Achievement
 AEP Technical Award — Second Place Overall
