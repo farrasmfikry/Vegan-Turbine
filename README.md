@@ -33,7 +33,7 @@ Showing the experimental setup, rotor testing, and measurement process.
 Presenting power-performance plots and the results of the team's technical evaluation.
 
 Achievement
-
+![Wind turbine blade manufacturing](Wind-Tunnel)
 Our team received the AEP Technical Award and finished second overall in the competition.
 
 What I Learned
