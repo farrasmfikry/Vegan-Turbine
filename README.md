@@ -25,7 +25,7 @@ Add your own project photographs below.
 Documenting the manufacturing process, materials, and blade construction.
 
 2. Wind-Tunnel Testing
-![Wind turbine blade manufacturing](Wind-Tunnel-Test.jpeg)
+![Wind turbine blade manufacturing](Wind-Tunnel-Test)
 Showing the experimental setup, rotor testing, and measurement process.
 
 3. Performance Analysis
