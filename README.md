@@ -15,6 +15,8 @@ Our team received the AEP Technical Award and finished second overall in the com
 
 This result recognised the team's work on turbine performance and energy production assessment, alongside the broader engineering effort involved in blade manufacturing, material selection, and experimental evaluation.
 
+![Certificate](Certificate)
+
 My Contributions
 
 Blade manufacturing: Participated in the manufacturing of small-scale wind turbine blades.
@@ -34,7 +36,7 @@ Add your own project photographs below.
 Documenting the manufacturing process, materials, and blade construction.
 
 2. Wind-Tunnel Testing
-![Wind turbine blade manufacturing](Wind-Tunnel-Test)
+
 Showing the experimental setup, rotor testing, and measurement process.
 
 3. Performance Analysis
