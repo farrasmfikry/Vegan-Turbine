@@ -15,40 +15,47 @@ Our team received the AEP Technical Award and finished second overall in the com
 
 This result recognised the team's work on turbine performance and energy production assessment, alongside the broader engineering effort involved in blade manufacturing, material selection, and experimental evaluation.
 
-![Certificate](Certificate)
 
 My Contributions
 
-Blade manufacturing: Participated in the manufacturing of small-scale wind turbine blades.
-
-Material selection: Worked with flax-fibre composite materials and bioresin.
-
-Experimental testing: Contributed to wind-tunnel testing and the evaluation of turbine performance.
-
-Performance analysis: Worked with power-performance data and annual energy production (AEP) assessment.
-
-Project Gallery
-
-Add your own project photographs below.
+My role involved contributing to the practical and experimental aspects of the project, connecting hands-on engineering work with performance evaluation.
 
 1. Blade Manufacturing
 
-Documenting the manufacturing process, materials, and blade construction.
+I participated in manufacturing small-scale wind turbine blades, gaining practical exposure to the processes involved in blade construction and composite material handling.
 
-2. Wind-Tunnel Testing
+This work helped me understand the importance of manufacturing quality, material preparation, and consistency when producing aerodynamic components.
 
-Showing the experimental setup, rotor testing, and measurement process.
 
-3. Performance Analysis
 
-Presenting power-performance plots and the results of the team's technical evaluation.
+2. Sustainable Composite Material Selection
 
-Achievement
+I worked with flax-fibre composite materials and bioresin as part of the team's investigation into alternative materials for wind turbine blades.
 
-Our team received the AEP Technical Award and finished second overall in the competition.
+The project provided practical insight into the relationship between material properties, blade construction, structural requirements, and sustainability considerations.
 
-What I Learned
 
-The project gave me practical experience in small-scale wind turbine blade manufacturing, composite material selection, experimental testing, and the relationship between aerodynamic performance and engineering design decisions.
 
-Tools and methods: Blade manufacturing · Composite materials · Wind-tunnel testing · Power-performance analysis · AEP assessment
+3. Wind-Tunnel Testing
+
+I contributed to experimental testing to evaluate the turbine's behaviour under controlled wind conditions.
+
+The testing process provided experience in observing turbine operation, working with an experimental setup, and connecting measured performance with the team's design decisions.
+
+
+
+
+
+4. Power-Performance Analysis
+
+I worked with power-performance data to help evaluate the turbine's experimental performance.
+
+The analysis connected the wind-tunnel testing campaign with the team's assessment of aerodynamic performance and energy production. It also demonstrated the importance of interpreting experimental results when comparing design alternatives.
+
+
+
+5. Annual Energy Production (AEP) Assessment
+
+I contributed to the team's Annual Energy Production (AEP) assessment, which was used to evaluate the turbine's potential energy yield.
+
+AEP provides an important link between turbine performance and practical energy production. The project reinforced the importance of considering the operating wind-speed distribution alongside the turbine's power-performance characteristics when assessing energy yield.
