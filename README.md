@@ -34,7 +34,7 @@ I worked with flax-fibre composite materials and bioresin as part of the team's 
 
 The project provided practical insight into the relationship between material properties, blade construction, structural requirements, and sustainability considerations.
 
-
+![Members](Blade)
 
 3. Wind-Tunnel Testing
 
@@ -42,9 +42,7 @@ I contributed to experimental testing to evaluate the turbine's behaviour under 
 
 The testing process provided experience in observing turbine operation, working with an experimental setup, and connecting measured performance with the team's design decisions.
 
-
-
-
+![Members](Tunnel)
 
 4. Power-Performance Analysis
 
