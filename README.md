@@ -45,7 +45,8 @@ The testing process provided experience in observing turbine operation, working 
 
 AEP provides an important link between turbine performance and practical energy production and is the main output to measure in this competition. hese are found using a Weibull distribution, with parameters A = 6.4 and k = 2.4 . The power curve for the DTU Small Wind Turbine and the Weibull distribution for this site are given in Figure below.
 
-![Members](AEP)
+![Members](Weibull.jpg)
+![Members](Power_curve.jpg)
 
 💡Key Learnings & Takeaways
 A winglet blade design was chosen for improved efficiency.The blades are constructed using a sustainable biocomposite made from flax-based fabric and a bio-resin matrix, providing a balance between structural performance and environmental responsibility. This improvement is contribute to breaking the CP and Annual Energy Production (AEP) records in the 2025 edition of the International Small Wind Turbine Contest (ISWTC).
