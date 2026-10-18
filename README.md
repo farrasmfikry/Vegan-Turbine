@@ -26,7 +26,7 @@ I participated in manufacturing small-scale wind turbine blades, gaining practic
 
 This work helped me understand the importance of manufacturing quality, material preparation, and consistency when producing aerodynamic components.
 
-
+![Members](Infusion)
 
 2. Sustainable Composite Material Selection
 
