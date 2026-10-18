@@ -8,6 +8,13 @@ The Bio-balde or Vegan Turbine project was an intensive student engineering comp
 
 ![Members](Wind-Tunnel-Test)
 
+Project Achievement
+AEP Technical Award — Second Place Overall
+
+Our team received the AEP Technical Award and finished second overall in the competition.
+
+This result recognised the team's work on turbine performance and energy production assessment, alongside the broader engineering effort involved in blade manufacturing, material selection, and experimental evaluation.
+
 My Contributions
 
 Blade manufacturing: Participated in the manufacturing of small-scale wind turbine blades.
