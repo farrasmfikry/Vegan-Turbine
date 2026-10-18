@@ -4,7 +4,9 @@ Nantes, France | 2025
 
 Project Overview
 
-The Vegan Turbine project was a student engineering competition focused on wind turbine design, blade manufacturing, material selection, and power performance. Our team explored natural-fibre composite materials as an alternative for small wind turbine blades and evaluated turbine performance through wind-tunnel testing.
+The Bio-balde or Vegan Turbine project was an intensive student engineering competition centered on the end-to-end design, manufacturing, and performance optimization of a small-scale wind turbine. Our core mission was to investigate sustainable alternatives to traditional synthetic composites by utilizing natural-fibre composite materials for turbine blades, and subsequently validating their structural and aerodynamic viability through rigorous wind-tunnel testing.
+
+![Members](Wind-Tunnel-Test)
 
 My Contributions
 
@@ -33,7 +35,6 @@ Showing the experimental setup, rotor testing, and measurement process.
 Presenting power-performance plots and the results of the team's technical evaluation.
 
 Achievement
-![Wind turbine blade manufacturing](Tunnel.mp4)
 
 Our team received the AEP Technical Award and finished second overall in the competition.
 
