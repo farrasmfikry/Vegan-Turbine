@@ -128,4 +128,4 @@ I would like to express my sincere appreciation to the Technical University of D
 
 I am grateful for the opportunity to collaborate with fellow students, exchange engineering ideas, and represent our work in an international competition.
 
-🔗 **Read my appreciation post on LinkedIn:** [View LinkedIn Post]([https://www.linkedin.com/posts/your-actual-post-url](https://lnkd.in/p/gdFFSkK8))
+🔗 **Read my appreciation post on LinkedIn:** [View LinkedIn Post](https://www.linkedin.com/posts/your-actual-post-url](https://lnkd.in/p/gdFFSkK8)
