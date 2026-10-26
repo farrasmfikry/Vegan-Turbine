@@ -63,19 +63,14 @@ I contributed to the AEP assessment by examining the turbine's power curve in co
 
 For the assessment, the site wind distribution was characterised using A = 6.4 and k = 2.4 . The Weibull distribution represents the probability of different wind speeds occurring at the selected site. Combining this distribution with the turbine's power curve allows the expected energy yield to be estimated.
 
-The general AEP calculation is:
+The general formula for calculating AEP is:
 
-[
-AEP = 8760\int_0^\infty P(v)f(v),dv
-]
+$$\text{AEP} = 8760 \int_{0}^{\infty} P(v)f(v) \, dv$$
 
-where:
-
-* (P(v)) is the turbine power output at wind speed (v).
-
-* (f(v)) is the Weibull probability density function.
-
-* (8760) is the number of hours in a non-leap year.
+Where:
+- $P(v)$: Turbine power output at wind speed $v$.
+- $f(v)$: Weibull probability density function.
+- $8760$: Number of hours in a non-leap year.
 
 This assessment highlighted the importance of evaluating turbine performance against site-specific wind conditions rather than relying solely on peak power coefficient or rated power.
 
