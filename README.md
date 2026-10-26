@@ -57,13 +57,45 @@ Flax fiber has been selected as the reinforcement material for the turbine blade
 
 3. Wind-Tunnel Testing
 
-The testing process provided experience in observing turbine operation, working with an experimental setup, and connecting measured performance.
+We tested the turbine in a wind-tunnel environment to observe its operation and evaluate its performance under controlled conditions.
+
+The testing process helped connect the theoretical aspects of turbine aerodynamics with experimental observations and measured performance data.
+
+My experience included working with the experimental setup, observing turbine behaviour, and relating the test results to the turbine's power-performance characteristics.
 
 ![Members](Tunnel)
 
 4. Annual Energy Production (AEP) Assessment
 
-AEP provides an important link between turbine performance and practical energy production and is the main output to measure in this competition. hese are found using a Weibull distribution, with parameters A = 6.4 and k = 2.4 . The power curve for the DTU Small Wind Turbine and the Weibull distribution for this site are given in Figure below.
+AEP was a key performance metric in the competition because it connects a turbine's power curve with the expected energy production at a particular wind site.
+
+I contributed to the AEP assessment by examining the turbine's power curve in conjunction with a Weibull wind-speed distribution.
+
+For the assessment, the site wind distribution was characterised using A = 6.4 and k = 2.4 . The Weibull distribution represents the probability of different wind speeds occurring at the selected site. Combining this distribution with the turbine's power curve allows the expected energy yield to be estimated.
+
+The general AEP calculation is:
+
+[
+AEP = 8760\int_0^\infty P(v)f(v),dv
+]
+
+where:
+
+(P(v)) is the turbine power output at wind speed (v).
+
+(f(v)) is the Weibull probability density function.
+
+(8760) is the number of hours in a non-leap year.
+
+This assessment highlighted the importance of evaluating turbine performance against site-specific wind conditions rather than relying solely on peak power coefficient or rated power.
+
+
+
+Weibull wind-speed distribution used for the AEP assessment.
+
+
+
+Power curve used to evaluate expected energy production.
 
 ![Members](Weibull.jpg)
 ![Members](Power_curve.jpg)
