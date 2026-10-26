@@ -84,7 +84,7 @@ This assessment highlighted the importance of evaluating turbine performance aga
 Weibull wind-speed distribution used for the AEP assessment.
 
 
-| Empirical Power Curve | Site Wind Rose |
+| Weibull distribution | Empirical Power Curve |
 | :---: | :---: |
 | ![Members](Weibull.jpg) | ![Members](Power_curve.jpg) | 
 
