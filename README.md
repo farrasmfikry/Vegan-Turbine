@@ -115,7 +115,7 @@ This project strengthened my understanding of how different aspects of wind turb
 
 Key takeaways:
 
-**Composite engineering: Gained hands-on experience in selecting flax-fibre reinforcement and manufacturing small wind turbine blades.
+* **Composite engineering: Gained hands-on experience in selecting flax-fibre reinforcement and manufacturing small wind turbine blades.
 
 **Aerodynamic design: Explored winglet configurations and their potential influence on turbine performance.
 
