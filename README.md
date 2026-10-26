@@ -128,4 +128,4 @@ I would like to express my sincere appreciation to the Technical University of D
 
 I am grateful for the opportunity to collaborate with fellow students, exchange engineering ideas, and represent our work in an international competition.
 
-🔗 **Read my appreciation post on LinkedIn:** [View LinkedIn Post](https://www.linkedin.com/posts/your-actual-post-url](https://lnkd.in/p/gdFFSkK8)
+🔗 **Read my appreciation post on LinkedIn:** [View LinkedIn Post]([https://www.linkedin.com/posts/your-actual-post-url](https://lnkd.in/p/gdFFSkK8](https://www.linkedin.com/posts/dtuwindenergy_iswtc-wesc-iswtc2025-ugcPost-7351154565007785985-3Bn5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC-ACPkB6lHCc6Kc5Y5_8kXDOQFW7UJ4BkU))
