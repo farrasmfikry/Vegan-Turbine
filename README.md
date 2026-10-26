@@ -23,17 +23,32 @@ The project demonstrated how material selection, blade design, experimental test
 
 🛠️ Tools & Methodologies
 
-1. Blade Design 
+1. Blade Design and Winglet Configuration
 
-We used winglet design for this year's project. The use of winglets offers a way to increase the power coefficient of a horizontal axis wind turbine that we assumed would be better for generating more power for a relatively small turbine.
+Our team adopted a winglet-based blade design to investigate its potential to improve the aerodynamic performance of a horizontal-axis wind turbine.
 
+Winglets were considered as a design approach to reduce blade-tip losses and improve aerodynamic efficiency. Their effectiveness, however, depends on the geometry, operating conditions, and associated aerodynamic and structural effects.
+
+This design decision provided an opportunity to connect aerodynamic concepts with practical small-turbine development and performance evaluation.
 
 
 ![Members](Infusion)
 
 2. Sustainable Composite Material Selection & Manufacturing
 
-I was responsible for choosing the main composite material and manufacturing the blade and we chose flax-fibre composite materials and bioresin as alternative materials for wind turbine blades.
+I was responsible for selecting the main composite reinforcement material and contributing to blade manufacturing. The team selected flax-fibre fabric combined with bio-based resin as an alternative to conventional synthetic composite materials.
+
+
+
+Why flax fibre?
+
+Flax fibre was selected for its renewable origin, potential environmental benefits, and mechanical properties relevant to lightweight structural applications.
+
+Reported properties of flax fibres and flax-based composites vary significantly with fibre quality, fibre orientation, resin system, and manufacturing process. Under favourable conditions, flax-based materials can offer useful tensile strength and stiffness, although they generally do not match the specific mechanical performance of high-performance carbon-fibre composites.
+
+
+
+This part of the project gave me practical exposure to composite material selection, blade fabrication, and the manufacturing considerations involved in applying sustainable materials to wind turbine structures.
 
 
 ![Members](Blade)
