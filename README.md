@@ -74,18 +74,9 @@ Where:
 
 This assessment highlighted the importance of evaluating turbine performance against site-specific wind conditions rather than relying solely on peak power coefficient or rated power.
 
-
-
-Weibull wind-speed distribution used for the AEP assessment.
-
-
 | Weibull distribution | Empirical Power Curve |
 | :---: | :---: |
 | ![Members](Weibull.jpg) | ![Members](Power_curve.jpg) | 
-
-
-
-
 
 ## 🌱 Sustainability Assessment
 
