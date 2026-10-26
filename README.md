@@ -100,5 +100,31 @@ Power curve used to evaluate expected energy production.
 ![Members](Weibull.jpg)
 ![Members](Power_curve.jpg)
 
+🌱 Sustainability Assessment
+
+Sustainability was an important part of the project, extending the evaluation beyond aerodynamic performance alone.
+
+Our team considered the environmental implications of using flax-based reinforcement and bio-based resin in place of conventional blade composite materials. This approach encouraged us to consider material sourcing, manufacturing processes, structural performance, and potential environmental impacts across the turbine's life cycle.
+
+The team achieved second place in the Sustainability Report, recognising this aspect of our work alongside the turbine's technical performance.
+
+The project reinforced an important engineering principle: a material alternative should not be considered sustainable solely because it is bio-based or renewable. Its environmental benefits must be assessed alongside durability, manufacturing requirements, service life, and end-of-life considerations.
+
+
+
 💡Key Learnings & Takeaways
-A winglet blade design was chosen for improved efficiency.The blades are constructed using a sustainable biocomposite made from flax-based fabric and a bio-resin matrix, providing a balance between structural performance and environmental responsibility. This improvement is contribute to breaking the CP and Annual Energy Production (AEP) records in the 2025 edition of the International Small Wind Turbine Contest (ISWTC).
+This project strengthened my understanding of how different aspects of wind turbine development interact, from material selection and blade manufacturing to aerodynamic testing and energy-yield assessment.
+
+Key takeaways:
+
+*Composite engineering: Gained hands-on experience in selecting flax-fibre reinforcement and manufacturing small wind turbine blades.
+
+*Aerodynamic design: Explored winglet configurations and their potential influence on turbine performance.
+
+*Experimental validation: Connected wind-tunnel observations and measured performance with theoretical expectations.
+
+*Wind resource assessment: Applied Weibull wind-speed modelling and power-curve analysis to estimate AEP.
+
+*Sustainability and life-cycle thinking: Considered the environmental implications of alternative blade materials and the broader trade-offs involved in sustainable engineering.
+
+*Team-based engineering: Contributed to a multidisciplinary project that balanced technical performance, manufacturing feasibility, and sustainability objectives.
