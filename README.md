@@ -51,8 +51,6 @@ Reported properties of flax fibres and flax-based composites vary significantly 
 This part of the project gave me practical exposure to composite material selection, blade fabrication, and the manufacturing considerations involved in applying sustainable materials to wind turbine structures.
 
 
-![Members](Blade)
-
 Flax fiber has been selected as the reinforcement material for the turbine blade due to its favorable mechanical properties and reduced environmental impact. Studies on unidirectional flax yarns report effective stiffness values approaching 90 GPa and tensile strength ranging from 500 to 900 MPa, depending on fiber quality. While these values remain lower than those of carbon fiber, flax outperforms many other natural and synthetic alternatives in terms of sustainability and structural viability. 
 
 ![Members](Flax.png)
