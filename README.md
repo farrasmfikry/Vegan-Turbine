@@ -4,15 +4,22 @@ Nantes, France | 2025
 
 📌Overview
 
-The Bio-balde or Vegan Turbine project was an student engineering competition on the end-to-end design, manufacturing, and performance optimization of a small-scale wind turbine. Our mission was to investigate sustainable alternatives to traditional synthetic composites by utilizing flax-fibre composite materials for turbine blades, and subsequently validating their structural and aerodynamic viability through rigorous wind-tunnel testing.
+The Bio-Balde (Vegan Turbine) project was an engineering competition that challenged teams to design, manufacture, and evaluate a small-scale wind turbine. Our team investigated the potential of flax-fibre composites and bio-based resin as alternatives to conventional synthetic composite materials for wind turbine blades.
+
+The project combined practical blade manufacturing, winglet design, wind-tunnel testing, and energy-yield assessment to explore the balance between aerodynamic performance, structural viability, and environmental sustainability.
+
+My main contributions were composite material selection, blade manufacturing, experimental performance evaluation, and Annual Energy Production (AEP) assessment.
+
+
 
 ![Members](Team2)
 
 🏆Project Achievement
-AEP Technical Award — Second Place Overall
+* **AEP Technical Award:** Recognised for the turbine's annual energy production performance.
+* **Second Place Overall:** Achieved in the 2025 International Small Wind Turbine Contest.
+* **Environmental Assessment:** Recognised for the team's sustainability assessment and consideration of environmental impacts across the turbine's life cycle.
 
-Our team received the AEP Technical Award and finished second overall in the competition.
-
+The project demonstrated how material selection, blade design, experimental testing, and energy-yield analysis can be brought together in a small wind turbine development process.
 
 🛠️ Tools & Methodologies
 
