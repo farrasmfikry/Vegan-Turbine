@@ -32,8 +32,6 @@ Winglets were considered as a design approach to reduce blade-tip losses and imp
 This design decision provided an opportunity to connect aerodynamic concepts with practical small-turbine development and performance evaluation.
 
 
-![Members](Infusion)
-
 2. Sustainable Composite Material Selection & Manufacturing
 
 I was responsible for selecting the main composite reinforcement material and contributing to blade manufacturing. The team selected flax-fibre fabric combined with bio-based resin as an alternative to conventional synthetic composite materials.
