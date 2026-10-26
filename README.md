@@ -84,11 +84,13 @@ This assessment highlighted the importance of evaluating turbine performance aga
 Weibull wind-speed distribution used for the AEP assessment.
 
 
+| Empirical Power Curve | Site Wind Rose |
+| :---: | :---: |
+| ![Members](Weibull.jpg) | ![Members](Power_curve.jpg) | 
 
-Power curve used to evaluate expected energy production.
 
-![Members](Weibull.jpg)
-![Members](Power_curve.jpg)
+
+
 
 ## 🌱 Sustainability Assessment
 
