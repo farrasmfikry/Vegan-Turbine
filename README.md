@@ -10,8 +10,6 @@ The project combined practical blade manufacturing, winglet design, wind-tunnel 
 
 My main contributions were composite material selection, blade manufacturing, experimental performance evaluation, and Annual Energy Production (AEP) assessment.
 
-
-
 ![Members](Team2)
 
 ## 🏆Project Achievement
@@ -30,7 +28,6 @@ Our team adopted a winglet-based blade design to investigate its potential to im
 Winglets were considered as a design approach to reduce blade-tip losses and improve aerodynamic efficiency. Their effectiveness, however, depends on the geometry, operating conditions, and associated aerodynamic and structural effects.
 
 This design decision provided an opportunity to connect aerodynamic concepts with practical small-turbine development and performance evaluation.
-
 
 ### 2. Sustainable Composite Material Selection & Manufacturing
 
@@ -128,4 +125,4 @@ I would like to express my sincere appreciation to the Technical University of D
 
 I am grateful for the opportunity to collaborate with fellow students, exchange engineering ideas, and represent our work in an international competition.
 
-🔗 **Read my appreciation post on LinkedIn:** [View LinkedIn Post](https://lnkd.in/p/gdFFSkK8)
+🔗 **Read DTU Wind appreciation post on LinkedIn:** [View LinkedIn Post](https://lnkd.in/p/gdFFSkK8)
