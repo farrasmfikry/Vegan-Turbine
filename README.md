@@ -117,12 +117,12 @@ Key takeaways:
 
 * Composite engineering: Gained hands-on experience in selecting flax-fibre reinforcement and manufacturing small wind turbine blades.
 
-**Aerodynamic design: Explored winglet configurations and their potential influence on turbine performance.
+* Aerodynamic design: Explored winglet configurations and their potential influence on turbine performance.
 
-**Experimental validation: Connected wind-tunnel observations and measured performance with theoretical expectations.
+* Experimental validation: Connected wind-tunnel observations and measured performance with theoretical expectations.
 
-*Wind resource assessment: Applied Weibull wind-speed modelling and power-curve analysis to estimate AEP.
+* Wind resource assessment: Applied Weibull wind-speed modelling and power-curve analysis to estimate AEP.
 
-**Sustainability and life-cycle thinking: Considered the environmental implications of alternative blade materials and the broader trade-offs involved in sustainable engineering.
+* Sustainability and life-cycle thinking: Considered the environmental implications of alternative blade materials and the broader trade-offs involved in sustainable engineering.
 
-**Team-based engineering: Contributed to a multidisciplinary project that balanced technical performance, manufacturing feasibility, and sustainability objectives.
+* Team-based engineering: Contributed to a multidisciplinary project that balanced technical performance, manufacturing feasibility, and sustainability objectives.
