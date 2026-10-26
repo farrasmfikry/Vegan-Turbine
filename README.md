@@ -121,3 +121,11 @@ This project strengthened my understanding of how different aspects of wind turb
 * Sustainability and life-cycle thinking: Considered the environmental implications of alternative blade materials and the broader trade-offs involved in sustainable engineering.
 
 * Team-based engineering: Contributed to a multidisciplinary project that balanced technical performance, manufacturing feasibility, and sustainability objectives.
+
+## 🙏 Acknowledgement
+
+I would like to express my sincere appreciation to the Technical University of Denmark (DTU) for its support and for providing the opportunity to participate in this international student engineering competition. The experience in Nantes allowed me to develop practical skills in sustainable composite materials, wind turbine blade manufacturing, experimental testing, and energy performance assessment.
+
+I am grateful for the opportunity to collaborate with fellow students, exchange engineering ideas, and represent our work in an international competition.
+
+🔗 **Read my appreciation post on LinkedIn:** [View LinkedIn Post]([https://www.linkedin.com/posts/your-actual-post-url](https://lnkd.in/p/gdFFSkK8))
